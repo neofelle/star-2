@@ -436,6 +436,7 @@ img.cover-service{
     width: 200px;
     margin-right: 20px;
     text-align: center;
+    list-style: none;
 }
 @media (max-width: 2560px) {
     .desktop-menu{
